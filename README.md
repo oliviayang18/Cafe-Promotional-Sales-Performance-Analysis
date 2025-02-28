@@ -8,6 +8,10 @@ Customers receive offers once every few days and have a limited time to redeem t
 
 Every customer purchase during the period is marked as a transaction. For a transaction to be attributed to an offer, it must occur at the same time as when the offer was "completed" by the customer.
 
+I can confirm that all customers in the events file are indeed present in the customers file. 
+
+
+
 Objective
 the effectiveness of different offer types and channels
 target audience
