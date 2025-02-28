@@ -76,3 +76,6 @@ Average amount spent per customer: $26.66
 Most customers (2,536) spent under $10 total
 However, 166 customers spent over $100 after receiving informational offers
 The highest spending customer made only 3 transactions but spent $1,411.77
+
+
+Valid Completions: Only 67.29% (19,511) of completed offers followed the expected sequence (received → viewed → completed) within the valid time period.
