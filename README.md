@@ -46,3 +46,33 @@ Transaction Value:
 Average transaction amount after informational offers: $12.61
 Average transaction amount overall: $12.78
 The transaction values are very similar, suggesting informational offers don't significantly increase or decrease transaction size
+
+
+Multiple Transactions After Informational Offers
+The data clearly shows that informational offers frequently lead to multiple transactions for many customers:
+Transaction Frequency
+
+66.45% of customers who received informational offers made at least one transaction
+36.02% made multiple transactions (2 or more)
+19.11% made 3 or more transactions
+
+Breakdown of Transaction Counts
+
+30.43% of customers made exactly 1 transaction
+16.91% made 2 transactions
+9.79% made 3 transactions
+4.57% made 4 transactions
+4.74% made 5 or more transactions
+
+Key Statistics
+
+The average number of transactions per customer (among those who transacted) is 2.11
+Some customers made as many as 11-13 transactions after receiving an informational offer
+The top transactor made 13 transactions totaling $35.03
+
+Spending Patterns
+
+Average amount spent per customer: $26.66
+Most customers (2,536) spent under $10 total
+However, 166 customers spent over $100 after receiving informational offers
+The highest spending customer made only 3 transactions but spent $1,411.77
