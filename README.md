@@ -10,6 +10,7 @@ Every customer purchase during the period is marked as a transaction. For a tran
 
 I can confirm that all customers in the events file are indeed present in the customers file. 
 
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/8b34ae6d-92f7-41ac-a5c6-3e941ac1996e" />
 
 
 Objective
