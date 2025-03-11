@@ -1,6 +1,35 @@
 # Cafe-Promotions-Analysis
 
-Cafe Rewards Offers
+## Project Background
+
+Maven Cafe, a neighborhood coffee shop, has built a loyal customer base across various age groups. In 2024 August, they launched a new loyalty program featuring a reward system to incentivize repeat purchases. The member customers receive promotional offers, including buy-one-get-one (bogo) offers and discount offers through multiple channels such as web, email, mobile, and social media. These offers can be redeemed within a limited time, and customers who complete a promotional offer by making a qualifying transaction receive the associated reward.
+
+
+Maven aims to refine its promotional strategy to drive customer engagement and increase sales. As an Data Analyst at Maven Cafe, I am collaborating with the marketing team to extract data-driven insights and deliver recommendations for providing more effective promotional offers to improve customer participation and revenue comtribution. 
+
+Insights and recommendations are provided on the following key areas:
+
+- Revenue Trends Analysis: Evaluation of historical sales patterns, focusing on offer participation and offer types.
+- Promotional Offer Performance: An analysis of bogo and discount offer performance, including customer engagement, revenue and net sales revenue performance, and comparision of different offers.
+- Customer Segment Analysis: An evaluation of sales, offer completion, and marketing channel performance across different age and income segments to indentify targeted customers.
+
+An interactive Tableau dashboard can be found here[].
+
+The SQL queries utilized to prepare data for the dashboard can be found here[].
+
+
+## Dataset Structure
+
+The dataset consisted of three tables, including customers, events, and offers, with a total row counts of 323,543. 
+
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/560c898a-64ec-4c69-bc55-11a617ae7c89" />
+
+The original events dataset contained a "value" column that stored multiple types of information in a dictionary format. For clarity and ease of analysis, I used Python to separate these mixed values into distinct columns: amount, offer_id, and reward. The script used for this transformation can be found here [].
+
+
+
+
+## ...
 
 Data that simulates the behavior of Cafe Rewards members over a 30-day period, including their transactions and responses to promotional offers.
 
@@ -10,14 +39,13 @@ Every customer purchase during the period is marked as a transaction. For a tran
 
 I can confirm that all customers in the events file are indeed present in the customers file. 
 
-<img width="897" alt="image" src="https://github.com/user-attachments/assets/8b34ae6d-92f7-41ac-a5c6-3e941ac1996e" />
+
 
 
 Objective
 the effectiveness of different offer types and channels
 target audience
 
-<img width="460" alt="image" src="https://github.com/user-attachments/assets/31d5c0d9-c165-4240-8700-b24f13e6ac25" />
 
 Key Findings About Informational Offers
 
