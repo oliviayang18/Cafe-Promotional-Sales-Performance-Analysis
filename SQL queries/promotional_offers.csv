@@ -1,0 +1,9 @@
+offer_type,difficulty,reward,duration,reception,VIEW,completion,view_rate,completion_rate,completion_to_view_rate,total_amount,average_amount,total_reward,channels
+bogo,5,5,7,7677,4171,4354,0.543311,0.567149,1.043874,91661.87,21.052336,21770,"['web', 'email', 'mobile']"
+bogo,10,10,7,7658,6716,3688,0.876991,0.481588,0.549136,106623.7,28.910982,36880,"['email', 'mobile', 'social']"
+bogo,10,10,5,7593,7298,3331,0.961148,0.438694,0.456426,99720.43,29.937085,33310,"['web', 'email', 'mobile', 'social']"
+bogo,5,5,5,7571,7264,4296,0.959451,0.567428,0.59141,102648.03,23.893862,21480,"['web', 'email', 'mobile', 'social']"
+discount,20,5,10,7668,2663,3420,0.347287,0.446009,1.284266,98221.39,28.719705,17100,"['web', 'email']"
+discount,7,3,7,7646,7337,5156,0.959587,0.67434,0.70274,108872.35,21.115661,15468,"['web', 'email', 'mobile', 'social']"
+discount,10,2,7,7632,4118,4017,0.53957,0.526336,0.975474,95394.97,23.747814,8034,"['web', 'email', 'mobile']"
+discount,10,2,10,7597,7327,5317,0.96446,0.699882,0.725672,117157.35,22.034484,10634,"['web', 'email', 'mobile', 'social']"
