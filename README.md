@@ -1,5 +1,11 @@
 # Cafe Promotional Sales Performance Analysis
+## Table of Contents
 
+- [Project Background](#project_background)
+- [Dataset Structure](#dataset_structure)
+  - [Customer Segment](#customer_segment)
+
+---
 ## Project Background
 
 Maven Cafe, a neighborhood coffee shop, has built a loyal customer base across various age groups. In 2024 August, they launched a new loyalty program featuring a reward system to incentivize purchases. The member customers receive promotional offers, including buy-one-get-one (bogo) offers and discount offers, through multiple channels such as web, email, mobile, and social media. These offers can be redeemed within a limited time, and customers who complete a promotional offer by making a qualifying transaction receive the associated reward. Each customer receives a different mix of offers, attempting to maximize their probability of making a purchase. There are also informational offers, simple advertisement of a product.
