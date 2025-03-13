@@ -4,7 +4,10 @@
 - [Project Background](#project_background)
 - [Dataset Structure](#dataset_structure)
   - [Customer Segment](#customer_segment)
-
+## Table of Contents
+- [Project Background](#project-background)
+- [Dataset Structure](#dataset-structure)
+  - [Customer Segment](#customer-segment)
 ---
 ## Project Background
 
