@@ -1,4 +1,4 @@
-# Cafe-Promotions-Analysis
+# Cafe Promotional Sales Performance Analysis
 
 ## Project Background
 
@@ -12,9 +12,9 @@ Insights and recommendations are provided on the following key areas:
 - __Promotional Offer Performance Analysis__: An analysis of bogo and discount offer performance, including customer engagement, sales and net sales performance, and comparison of different offers.
 - __Customer Segment Analysis__: An evaluation of sales, offer completion, and marketing channel performance across different age and income segments to identify targeted customers.
 
-An interactive Tableau dashboard can be found here[].
+An interactive Tableau dashboard can be found [here](https://public.tableau.com/views/CafeProject_17418350327250/OfferPerformanceAnalysisbyCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-The SQL queries utilized to prepare data for the dashboard can be found here[].
+The SQL queries utilized to prepare data for the dashboard can be found [here](https://github.com/oliviayang18/Cafe-Promotional-Sales-Performance-Analysis/tree/9ce09045fbc28af0b16c210aa34ba04c9235aed8/SQL%20queries).
 
 
 ## Dataset Structure
