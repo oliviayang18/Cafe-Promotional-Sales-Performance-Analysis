@@ -1,13 +1,17 @@
 # Cafe Promotional Sales Performance Analysis
+
 ## Table of Contents
 
-- [Project Background](#project_background)
-- [Dataset Structure](#dataset_structure)
-  - [Customer Segment](#customer_segment)
-## Table of Contents
 - [Project Background](#project-background)
 - [Dataset Structure](#dataset-structure)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
+  - [Overall Sales Trends](#overall-sales-trends)
+  - [Promotional Offer Performance](#promotional-offer-performance)
   - [Customer Segment](#customer-segment)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+
 ---
 ## Project Background
 
