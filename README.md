@@ -1,4 +1,6 @@
 # Cafe Promotional Sales Performance Analysis
+by Jiayue (Olivia) Yang
+
 
 ## Table of Contents
 
